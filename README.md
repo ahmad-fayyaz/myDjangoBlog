@@ -19,7 +19,7 @@ Welcome to the Django Blog repository! This project provides a basic blogging pl
 
 ## Getting Started
 
-Follow these instructions to set up and run the project on your local machine.
+Follow these instructions to set up and run the project on your local machine. Use django cli commands to create super users or manage database. The commands are not included in this readme file, therefore it is encouraged to visit django's official documentation website.
 
 ### Prerequisites
 
