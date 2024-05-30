@@ -1,7 +1,7 @@
 
 # My Django Blog
 
-![Logo](https://github.com/ahmad-fayyaz/myDjangoBlog/djangonautic/assets/logo.png?raw=true)djangonautic/assets/logo.png
+![Logo](https://github.com/ahmad-fayyaz/myDjangoBlog/blob/main/djangonautic/assets/logo.png)
 
 Welcome to the Django Blog repository! This project provides a basic blogging platform built using the Django framework. It includes essential features such as user signup, login, backend dashboard, post creation, and post-viewing. This repository is a great resource for understanding the basics of the Django framework.
 
